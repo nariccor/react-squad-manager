@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-squad-manager/static/css/main.31129739.chunk.css",
+    "main.js": "/react-squad-manager/static/js/main.b3d19d05.chunk.js",
+    "main.js.map": "/react-squad-manager/static/js/main.b3d19d05.chunk.js.map",
+    "runtime-main.js": "/react-squad-manager/static/js/runtime-main.881eea54.js",
+    "runtime-main.js.map": "/react-squad-manager/static/js/runtime-main.881eea54.js.map",
+    "static/js/2.2c7aa530.chunk.js": "/react-squad-manager/static/js/2.2c7aa530.chunk.js",
+    "static/js/2.2c7aa530.chunk.js.map": "/react-squad-manager/static/js/2.2c7aa530.chunk.js.map",
+    "index.html": "/react-squad-manager/index.html",
+    "precache-manifest.22e3acfc0cc163a8e366669d23e64a9d.js": "/react-squad-manager/precache-manifest.22e3acfc0cc163a8e366669d23e64a9d.js",
+    "service-worker.js": "/react-squad-manager/service-worker.js",
+    "static/css/main.31129739.chunk.css.map": "/react-squad-manager/static/css/main.31129739.chunk.css.map",
+    "static/js/2.2c7aa530.chunk.js.LICENSE.txt": "/react-squad-manager/static/js/2.2c7aa530.chunk.js.LICENSE.txt",
+    "static/media/jersey.svg": "/react-squad-manager/static/media/jersey.b1b40c25.svg",
+    "static/media/soccer-field.svg": "/react-squad-manager/static/media/soccer-field.f8e6342c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.881eea54.js",
+    "static/js/2.2c7aa530.chunk.js",
+    "static/css/main.31129739.chunk.css",
+    "static/js/main.b3d19d05.chunk.js"
+  ]
+}
